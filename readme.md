@@ -6,3 +6,5 @@ Learning Objectives for Individual Work
 *Student repositories
 *GitHub classroom
 *Permissions
+*Excericises
+*Automated testing
